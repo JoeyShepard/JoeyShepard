@@ -11,17 +11,16 @@
 - [prog-tools](https://github.com/JoeyShepard/prog-tools) - Programming tools that run on the Casio fx-CG50 graphing calculator
 
 ## Projects &nbsp;💻
-- opt-mini-6502  
-  - more info here, link  
-- Interactive Assembler 6502  
-- mips blink-robot  
-- calc6507  
-- 65C02 emulator  
-- RobotGame  
-- TinyCalc  
-- schematic cad  
-- EEPROM_programmer  
-- RPN_Calculator  
+- Mini Optimizer for 6502  
+- Interactive Assembler for 6502  
+- PIC32 Blinky Robot  
+- 6507 Graphing Calculator  
+- 65C02 Emulator  
+- Robot Game  
+- Schematic Cad  
+- Tiny Calculator  
+- EEPROM Programmer  
+- RPN Calculator  
 
 ## Public talks &nbsp;💬
 - HHC 2023
