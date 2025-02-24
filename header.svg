@@ -5,7 +5,7 @@
     @import url("https://fonts.googleapis.com/css?family=Ubuntu+Sans:200")
 </style>
 <path d="M0,0 l 35,35 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="49.49747468305833" stroke-dashoffset="0">
-	<animate id="trace1" attributeName="stroke-dashoffset" begin="0.5294055331735406s;trace1.begin+8" dur="0.3299831645537222s" values="49.49747468305833;0" />
+	<animate id="trace1" attributeName="stroke-dashoffset" begin="0.6603593448415364s;trace1.begin+8" dur="0.3299831645537222s" values="49.49747468305833;0" />
 	<set attributeName="stroke" begin="trace1.begin;via1.end" to="#203080" />
 	<animate attributeName="stroke" begin="via1.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade1" attributeName="stroke" begin="via1.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -18,7 +18,7 @@
 	<set attributeName="stroke" begin="fade1.end" to="#000040" />
 </circle>
 <path d="M0,110 l 75,0 l 40,-40 l 0,-25 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="156.5685424949238" stroke-dashoffset="0">
-	<animate id="trace2" attributeName="stroke-dashoffset" begin="0.49875682273043287s;trace2.begin+8" dur="1.043790283299492s" values="156.5685424949238;0" />
+	<animate id="trace2" attributeName="stroke-dashoffset" begin="0.15244680418698586s;trace2.begin+8" dur="1.043790283299492s" values="156.5685424949238;0" />
 	<set attributeName="stroke" begin="trace2.begin;via2.end" to="#203080" />
 	<animate attributeName="stroke" begin="via2.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade2" attributeName="stroke" begin="via2.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -31,7 +31,7 @@
 	<set attributeName="stroke" begin="fade2.end" to="#000040" />
 </circle>
 <path d="M0,140 l 120,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="120.0" stroke-dashoffset="0">
-	<animate id="trace3" attributeName="stroke-dashoffset" begin="0.7272453879930506s;trace3.begin+8" dur="0.8s" values="120.0;0" />
+	<animate id="trace3" attributeName="stroke-dashoffset" begin="0.4202321741679026s;trace3.begin+8" dur="0.8s" values="120.0;0" />
 	<set attributeName="stroke" begin="trace3.begin;via3.end" to="#203080" />
 	<animate attributeName="stroke" begin="via3.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade3" attributeName="stroke" begin="via3.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -44,7 +44,7 @@
 	<set attributeName="stroke" begin="fade3.end" to="#000040" />
 </circle>
 <path d="M0,170 l 120,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="120.0" stroke-dashoffset="0">
-	<animate id="trace4" attributeName="stroke-dashoffset" begin="0.7272453879930506s;trace4.begin+8" dur="0.8s" values="120.0;0" />
+	<animate id="trace4" attributeName="stroke-dashoffset" begin="0.4202321741679026s;trace4.begin+8" dur="0.8s" values="120.0;0" />
 	<set attributeName="stroke" begin="trace4.begin;via4.end" to="#203080" />
 	<animate attributeName="stroke" begin="via4.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade4" attributeName="stroke" begin="via4.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -57,7 +57,7 @@
 	<set attributeName="stroke" begin="fade4.end" to="#000040" />
 </circle>
 <path d="M175,200 l 0,-75 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="75.0" stroke-dashoffset="0">
-	<animate id="trace5" attributeName="stroke-dashoffset" begin="0.10501661556776154s;trace5.begin+8" dur="0.5s" values="75.0;0" />
+	<animate id="trace5" attributeName="stroke-dashoffset" begin="0.7853225948589787s;trace5.begin+8" dur="0.5s" values="75.0;0" />
 	<set attributeName="stroke" begin="trace5.begin;via5.end" to="#203080" />
 	<animate attributeName="stroke" begin="via5.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade5" attributeName="stroke" begin="via5.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -70,7 +70,7 @@
 	<set attributeName="stroke" begin="fade5.end" to="#000040" />
 </circle>
 <path d="M220,200 l 0,-50 l 75,-75 l 0,-30 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="186.06601717798213" stroke-dashoffset="0">
-	<animate id="trace6" attributeName="stroke-dashoffset" begin="0.5763643150723292s;trace6.begin+8" dur="1.240440114519881s" values="186.06601717798213;0" />
+	<animate id="trace6" attributeName="stroke-dashoffset" begin="0.5300548599792617s;trace6.begin+8" dur="1.240440114519881s" values="186.06601717798213;0" />
 	<set attributeName="stroke" begin="trace6.begin;via6.end" to="#203080" />
 	<animate attributeName="stroke" begin="via6.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade6" attributeName="stroke" begin="via6.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -83,7 +83,7 @@
 	<set attributeName="stroke" begin="fade6.end" to="#000040" />
 </circle>
 <path d="M260,200 l 0,-40 l 25,-25 l 40,0 l 25,25 l 0,40 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="190.71067811865476" stroke-dashoffset="0">
-	<animate id="trace7" attributeName="stroke-dashoffset" begin="0.3787758372216642s;trace7.begin+8" dur="1.2714045207910316s" values="190.71067811865476;0" />
+	<animate id="trace7" attributeName="stroke-dashoffset" begin="0.7746797007288914s;trace7.begin+8" dur="1.2714045207910316s" values="190.71067811865476;0" />
 	<set attributeName="stroke" begin="trace7.begin;via7.end" to="#203080" />
 	<animate attributeName="stroke" begin="via7.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade7" attributeName="stroke" begin="via7.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -96,7 +96,7 @@
 	<set attributeName="stroke" begin="fade7.end" to="#000040" />
 </circle>
 <path d="M200,0 l 0,40 l -20,20 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="68.2842712474619" stroke-dashoffset="0">
-	<animate id="trace8" attributeName="stroke-dashoffset" begin="0.23412286695128548s;trace8.begin+8" dur="0.45522847498307933s" values="68.2842712474619;0" />
+	<animate id="trace8" attributeName="stroke-dashoffset" begin="0.7809906503289946s;trace8.begin+8" dur="0.45522847498307933s" values="68.2842712474619;0" />
 	<set attributeName="stroke" begin="trace8.begin;via8.end" to="#203080" />
 	<animate attributeName="stroke" begin="via8.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade8" attributeName="stroke" begin="via8.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -109,7 +109,7 @@
 	<set attributeName="stroke" begin="fade8.end" to="#000040" />
 </circle>
 <path d="M200,0 l 0,40 l 20,20 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="68.2842712474619" stroke-dashoffset="0">
-	<animate id="trace9" attributeName="stroke-dashoffset" begin="0.23412286695128548s;trace9.begin+8" dur="0.45522847498307933s" values="68.2842712474619;0" />
+	<animate id="trace9" attributeName="stroke-dashoffset" begin="0.7809906503289946s;trace9.begin+8" dur="0.45522847498307933s" values="68.2842712474619;0" />
 	<set attributeName="stroke" begin="trace9.begin;via9.end" to="#203080" />
 	<animate attributeName="stroke" begin="via9.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade9" attributeName="stroke" begin="via9.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -122,7 +122,7 @@
 	<set attributeName="stroke" begin="fade9.end" to="#000040" />
 </circle>
 <path d="M390,200 l 0,-115 l -40,-40 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="171.5685424949238" stroke-dashoffset="0">
-	<animate id="trace10" attributeName="stroke-dashoffset" begin="0.33370735252298567s;trace10.begin+8" dur="1.143790283299492s" values="171.5685424949238;0" />
+	<animate id="trace10" attributeName="stroke-dashoffset" begin="0.956004836424496s;trace10.begin+8" dur="1.143790283299492s" values="171.5685424949238;0" />
 	<set attributeName="stroke" begin="trace10.begin;via10.end" to="#203080" />
 	<animate attributeName="stroke" begin="via10.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade10" attributeName="stroke" begin="via10.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -135,7 +135,7 @@
 	<set attributeName="stroke" begin="fade10.end" to="#000040" />
 </circle>
 <path d="M390,200 l 0,-90 l -40,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="130.0" stroke-dashoffset="0">
-	<animate id="trace11" attributeName="stroke-dashoffset" begin="0.33370735252298567s;trace11.begin+8" dur="0.8666666666666667s" values="130.0;0" />
+	<animate id="trace11" attributeName="stroke-dashoffset" begin="0.956004836424496s;trace11.begin+8" dur="0.8666666666666667s" values="130.0;0" />
 	<set attributeName="stroke" begin="trace11.begin;via11.end" to="#203080" />
 	<animate attributeName="stroke" begin="via11.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade11" attributeName="stroke" begin="via11.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -148,7 +148,7 @@
 	<set attributeName="stroke" begin="fade11.end" to="#000040" />
 </circle>
 <path d="M430,0 l 0,40 l -20,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="60.0" stroke-dashoffset="0">
-	<animate id="trace12" attributeName="stroke-dashoffset" begin="0.1803176898799529s;trace12.begin+8" dur="0.4s" values="60.0;0" />
+	<animate id="trace12" attributeName="stroke-dashoffset" begin="0.9347302069441453s;trace12.begin+8" dur="0.4s" values="60.0;0" />
 	<set attributeName="stroke" begin="trace12.begin;via12.end" to="#203080" />
 	<animate attributeName="stroke" begin="via12.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade12" attributeName="stroke" begin="via12.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -161,7 +161,7 @@
 	<set attributeName="stroke" begin="fade12.end" to="#000040" />
 </circle>
 <path d="M430,0 l 0,110 l 20,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="130.0" stroke-dashoffset="0">
-	<animate id="trace13" attributeName="stroke-dashoffset" begin="0.1803176898799529s;trace13.begin+8" dur="0.8666666666666667s" values="130.0;0" />
+	<animate id="trace13" attributeName="stroke-dashoffset" begin="0.9347302069441453s;trace13.begin+8" dur="0.8666666666666667s" values="130.0;0" />
 	<set attributeName="stroke" begin="trace13.begin;via13.end" to="#203080" />
 	<animate attributeName="stroke" begin="via13.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade13" attributeName="stroke" begin="via13.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -174,7 +174,7 @@
 	<set attributeName="stroke" begin="fade13.end" to="#000040" />
 </circle>
 <path d="M430,0 l 0,170 l 20,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="190.0" stroke-dashoffset="0">
-	<animate id="trace14" attributeName="stroke-dashoffset" begin="0.1803176898799529s;trace14.begin+8" dur="1.2666666666666666s" values="190.0;0" />
+	<animate id="trace14" attributeName="stroke-dashoffset" begin="0.9347302069441453s;trace14.begin+8" dur="1.2666666666666666s" values="190.0;0" />
 	<set attributeName="stroke" begin="trace14.begin;via14.end" to="#203080" />
 	<animate attributeName="stroke" begin="via14.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade14" attributeName="stroke" begin="via14.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -187,7 +187,7 @@
 	<set attributeName="stroke" begin="fade14.end" to="#000040" />
 </circle>
 <path d="M1280,200 l -35,-35 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="49.49747468305833" stroke-dashoffset="0">
-	<animate id="trace15" attributeName="stroke-dashoffset" begin="0.918765027774794s;trace15.begin+8" dur="0.3299831645537222s" values="49.49747468305833;0" />
+	<animate id="trace15" attributeName="stroke-dashoffset" begin="0.8103129666159979s;trace15.begin+8" dur="0.3299831645537222s" values="49.49747468305833;0" />
 	<set attributeName="stroke" begin="trace15.begin;via15.end" to="#203080" />
 	<animate attributeName="stroke" begin="via15.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade15" attributeName="stroke" begin="via15.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -200,7 +200,7 @@
 	<set attributeName="stroke" begin="fade15.end" to="#000040" />
 </circle>
 <path d="M1280,90 l -75,0 l -40,40 l 0,25 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="156.5685424949238" stroke-dashoffset="0">
-	<animate id="trace16" attributeName="stroke-dashoffset" begin="0.228948017009868s;trace16.begin+8" dur="1.043790283299492s" values="156.5685424949238;0" />
+	<animate id="trace16" attributeName="stroke-dashoffset" begin="0.27183383508193004s;trace16.begin+8" dur="1.043790283299492s" values="156.5685424949238;0" />
 	<set attributeName="stroke" begin="trace16.begin;via16.end" to="#203080" />
 	<animate attributeName="stroke" begin="via16.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade16" attributeName="stroke" begin="via16.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -213,7 +213,7 @@
 	<set attributeName="stroke" begin="fade16.end" to="#000040" />
 </circle>
 <path d="M1280,60 l -120,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="120.0" stroke-dashoffset="0">
-	<animate id="trace17" attributeName="stroke-dashoffset" begin="0.5421189545193945s;trace17.begin+8" dur="0.8s" values="120.0;0" />
+	<animate id="trace17" attributeName="stroke-dashoffset" begin="0.10637218430738471s;trace17.begin+8" dur="0.8s" values="120.0;0" />
 	<set attributeName="stroke" begin="trace17.begin;via17.end" to="#203080" />
 	<animate attributeName="stroke" begin="via17.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade17" attributeName="stroke" begin="via17.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -226,7 +226,7 @@
 	<set attributeName="stroke" begin="fade17.end" to="#000040" />
 </circle>
 <path d="M1280,30 l -120,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="120.0" stroke-dashoffset="0">
-	<animate id="trace18" attributeName="stroke-dashoffset" begin="0.5421189545193945s;trace18.begin+8" dur="0.8s" values="120.0;0" />
+	<animate id="trace18" attributeName="stroke-dashoffset" begin="0.10637218430738471s;trace18.begin+8" dur="0.8s" values="120.0;0" />
 	<set attributeName="stroke" begin="trace18.begin;via18.end" to="#203080" />
 	<animate attributeName="stroke" begin="via18.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade18" attributeName="stroke" begin="via18.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -239,7 +239,7 @@
 	<set attributeName="stroke" begin="fade18.end" to="#000040" />
 </circle>
 <path d="M1105,0 l 0,75 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="75.0" stroke-dashoffset="0">
-	<animate id="trace19" attributeName="stroke-dashoffset" begin="0.45681895859803234s;trace19.begin+8" dur="0.5s" values="75.0;0" />
+	<animate id="trace19" attributeName="stroke-dashoffset" begin="0.8603848864719589s;trace19.begin+8" dur="0.5s" values="75.0;0" />
 	<set attributeName="stroke" begin="trace19.begin;via19.end" to="#203080" />
 	<animate attributeName="stroke" begin="via19.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade19" attributeName="stroke" begin="via19.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -252,7 +252,7 @@
 	<set attributeName="stroke" begin="fade19.end" to="#000040" />
 </circle>
 <path d="M1060,0 l 0,50 l -75,75 l 0,30 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="186.06601717798213" stroke-dashoffset="0">
-	<animate id="trace20" attributeName="stroke-dashoffset" begin="0.4309154222016818s;trace20.begin+8" dur="1.240440114519881s" values="186.06601717798213;0" />
+	<animate id="trace20" attributeName="stroke-dashoffset" begin="0.0859536897715506s;trace20.begin+8" dur="1.240440114519881s" values="186.06601717798213;0" />
 	<set attributeName="stroke" begin="trace20.begin;via20.end" to="#203080" />
 	<animate attributeName="stroke" begin="via20.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade20" attributeName="stroke" begin="via20.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -265,7 +265,7 @@
 	<set attributeName="stroke" begin="fade20.end" to="#000040" />
 </circle>
 <path d="M1020,0 l 0,40 l -25,25 l -40,0 l -25,-25 l 0,-40 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="190.71067811865476" stroke-dashoffset="0">
-	<animate id="trace21" attributeName="stroke-dashoffset" begin="0.2093134472526358s;trace21.begin+8" dur="1.2714045207910316s" values="190.71067811865476;0" />
+	<animate id="trace21" attributeName="stroke-dashoffset" begin="0.4086288982022188s;trace21.begin+8" dur="1.2714045207910316s" values="190.71067811865476;0" />
 	<set attributeName="stroke" begin="trace21.begin;via21.end" to="#203080" />
 	<animate attributeName="stroke" begin="via21.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade21" attributeName="stroke" begin="via21.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -278,7 +278,7 @@
 	<set attributeName="stroke" begin="fade21.end" to="#000040" />
 </circle>
 <path d="M1080,200 l 0,-40 l 20,-20 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="68.2842712474619" stroke-dashoffset="0">
-	<animate id="trace22" attributeName="stroke-dashoffset" begin="0.055229055542960315s;trace22.begin+8" dur="0.45522847498307933s" values="68.2842712474619;0" />
+	<animate id="trace22" attributeName="stroke-dashoffset" begin="0.3494338695076634s;trace22.begin+8" dur="0.45522847498307933s" values="68.2842712474619;0" />
 	<set attributeName="stroke" begin="trace22.begin;via22.end" to="#203080" />
 	<animate attributeName="stroke" begin="via22.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade22" attributeName="stroke" begin="via22.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -291,7 +291,7 @@
 	<set attributeName="stroke" begin="fade22.end" to="#000040" />
 </circle>
 <path d="M1080,200 l 0,-40 l -20,-20 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="68.2842712474619" stroke-dashoffset="0">
-	<animate id="trace23" attributeName="stroke-dashoffset" begin="0.055229055542960315s;trace23.begin+8" dur="0.45522847498307933s" values="68.2842712474619;0" />
+	<animate id="trace23" attributeName="stroke-dashoffset" begin="0.3494338695076634s;trace23.begin+8" dur="0.45522847498307933s" values="68.2842712474619;0" />
 	<set attributeName="stroke" begin="trace23.begin;via23.end" to="#203080" />
 	<animate attributeName="stroke" begin="via23.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade23" attributeName="stroke" begin="via23.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -304,7 +304,7 @@
 	<set attributeName="stroke" begin="fade23.end" to="#000040" />
 </circle>
 <path d="M890,0 l 0,162 l 40,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="202.0" stroke-dashoffset="0">
-	<animate id="trace24" attributeName="stroke-dashoffset" begin="0.5670046013224448s;trace24.begin+8" dur="1.3466666666666667s" values="202.0;0" />
+	<animate id="trace24" attributeName="stroke-dashoffset" begin="0.9182690809147753s;trace24.begin+8" dur="1.3466666666666667s" values="202.0;0" />
 	<set attributeName="stroke" begin="trace24.begin;via24.end" to="#203080" />
 	<animate attributeName="stroke" begin="via24.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade24" attributeName="stroke" begin="via24.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -317,7 +317,7 @@
 	<set attributeName="stroke" begin="fade24.end" to="#000040" />
 </circle>
 <path d="M890,0 l 0,90 l 40,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="130.0" stroke-dashoffset="0">
-	<animate id="trace25" attributeName="stroke-dashoffset" begin="0.5670046013224448s;trace25.begin+8" dur="0.8666666666666667s" values="130.0;0" />
+	<animate id="trace25" attributeName="stroke-dashoffset" begin="0.9182690809147753s;trace25.begin+8" dur="0.8666666666666667s" values="130.0;0" />
 	<set attributeName="stroke" begin="trace25.begin;via25.end" to="#203080" />
 	<animate attributeName="stroke" begin="via25.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade25" attributeName="stroke" begin="via25.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -330,7 +330,7 @@
 	<set attributeName="stroke" begin="fade25.end" to="#000040" />
 </circle>
 <path d="M850,0 l 0,110 l -20,0 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="130.0" stroke-dashoffset="0">
-	<animate id="trace26" attributeName="stroke-dashoffset" begin="0.4799754353442489s;trace26.begin+8" dur="0.8666666666666667s" values="130.0;0" />
+	<animate id="trace26" attributeName="stroke-dashoffset" begin="0.11400641584067706s;trace26.begin+8" dur="0.8666666666666667s" values="130.0;0" />
 	<set attributeName="stroke" begin="trace26.begin;via26.end" to="#203080" />
 	<animate attributeName="stroke" begin="via26.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade26" attributeName="stroke" begin="via26.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -343,7 +343,7 @@
 	<set attributeName="stroke" begin="fade26.end" to="#000040" />
 </circle>
 <path d="M850,0 l 0,150 l -20,15 " stroke="#000040" fill="none" stroke-width="3" stroke-dasharray="175.0" stroke-dashoffset="0">
-	<animate id="trace27" attributeName="stroke-dashoffset" begin="0.4799754353442489s;trace27.begin+8" dur="1.1666666666666667s" values="175.0;0" />
+	<animate id="trace27" attributeName="stroke-dashoffset" begin="0.11400641584067706s;trace27.begin+8" dur="1.1666666666666667s" values="175.0;0" />
 	<set attributeName="stroke" begin="trace27.begin;via27.end" to="#203080" />
 	<animate attributeName="stroke" begin="via27.begin" dur="0.2s" values="white;#203080" />
 	<animate id="fade27" attributeName="stroke" begin="via27.end+4s" dur="0.5s" values="#203080;#000040" />
@@ -355,6 +355,6 @@
 	<animate attributeName="stroke" begin="via27.end+4s" dur="0.5s" values="#203080;#000040" />
 	<set attributeName="stroke" begin="fade27.end" to="#000040" />
 </circle>
-<text x="640" y="60" fill="white" dominant-baseline="middle" text-anchor="middle" font-family="Ubuntu Sans, sans-sarif" font-size="60" font-weight="200" >Joey Shepard</text>
-<text x="640" y="140" fill="white" dominant-baseline="middle" text-anchor="middle" font-family="Ubuntu Sans, sans-sarif" font-size="48" font-weight="200" >Programmer</text>
+<text x="640" y="60" fill="white" dominant-baseline="middle" text-anchor="middle" font-family="Ubuntu Sans, sans-sarif" font-size="60" >Joey Shepard</text>
+<text x="640" y="140" fill="white" dominant-baseline="middle" text-anchor="middle" font-family="Ubuntu Sans, sans-sarif" font-size="48" >Programmer</text>
 </svg>
