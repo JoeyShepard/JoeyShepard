@@ -29,7 +29,7 @@
 - HHC 2019
 - Hack && Tell
   
-## Blog posts &nbsp;🗒️
+## Top blog posts &nbsp;🗒️
 ## Contact me &nbsp;📬
 gmail, linkedin, stackoverflow, github
 
