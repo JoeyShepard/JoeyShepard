@@ -1,6 +1,4 @@
 ![Joey Shepard](/header.svg)
-![Joey Shepard](/header.gif)
-
 
 ## Skills and technologies &nbsp;🔧
 - **Languages:**   Python, SQL, C, Assembly, Visual Basic
