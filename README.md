@@ -17,20 +17,19 @@
   -  <img align=center src="https://img.shields.io/badge/Python-blue"> - Website - Blog post
    
 - [PIC32 Blinky Robot](https://github.com/JoeyShepard/pic32-blinky-robot) - Six nested 6502 emulators running on PIC32 microcontroller
-  - <img align=center src="https://img.shields.io/badge/Assembly-Purple"> [<img align=center src="https://img.shields.io/badge/Featured_on_Hackaday-black">](https://hackaday.com/2022/12/24/blinky-project-is-6502s-all-the-way-down/) - Blog post
-- 6507 Graphing Calculator  
-- 65C02 Emulator  
-- Robot Game  
-- Schematic Cad  
-- Tiny Calculator  
-- EEPROM Programmer  
-- RPN Calculator  
+  - <img align=center src="https://img.shields.io/badge/Assembly-purple"> [<img align=center src="https://img.shields.io/badge/Featured_on_Hackaday-black">](https://hackaday.com/2022/12/24/blinky-project-is-6502s-all-the-way-down/) - Blog post
+- [6507 Graphing Calculator](https://github.com/JoeyShepard/calc6507)  
+- [65C02 Emulator](https://github.com/JoeyShepard/65C02-emulator)  
+- [Robot Game](https://github.com/JoeyShepard/robot-game)  
+- [Schematic Cad](https://github.com/JoeyShepard/schematic-cad)  
+- [Tiny Calculator](https://github.com/JoeyShepard/tiny-calc)  
+- [EEPROM Programmer](https://github.com/JoeyShepard/eeprom-programmer)  
+- [RPN Calculator](https://github.com/JoeyShepard/rpn-calculator)  
 
 ## Public talks &nbsp;💬
-- HHC 2023
-- HHC 2021
-- HHC 2019
-- Hack && Tell
+- [HP Handheld Conference 2023](https://www.youtube.com/watch?v=BYiYUGSROLs)
+- [HP Handheld Conference 2021](https://www.youtube.com/watch?v=fNx0s4iwssQ)
+- [HP Handheld Conference 2019](https://www.youtube.com/watch?v=dJoKl0LK5jM)
   
 ## Top blog posts &nbsp;🗒️
 ## Contact me &nbsp;📬
