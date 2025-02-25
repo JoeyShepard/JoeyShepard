@@ -22,13 +22,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Stack-based scripting language for generating schematics  
 &nbsp;&nbsp;&nbsp;&nbsp;<img align=center src="https://img.shields.io/badge/Python-blue">&nbsp;&nbsp;[Blog post](https://joldosh.blogspot.com/2022/05/7400-logic-calculator-revisited.html#schematic)
 
-- [PIC32 Blinky Robot](https://github.com/JoeyShepard/pic32-blinky-robot)  
-&nbsp;&nbsp;&nbsp;&nbsp;Nested 6502 emulators running on PIC32 microcontroller  
-&nbsp;&nbsp;&nbsp;&nbsp;<img align=center src="https://img.shields.io/badge/Assembly-purple">&nbsp;&nbsp;[Blog post](https://joldosh.blogspot.com/2022/12/pic326502-blinky-robot.html)&nbsp;&nbsp;[On Hackaday](https://hackaday.com/2022/12/24/blinky-project-is-6502s-all-the-way-down/)
-
 - [Robot Game](https://github.com/JoeyShepard/robot-game)  
 &nbsp;&nbsp;&nbsp;&nbsp;Performance comparison between assembly, Forth, and C  
 &nbsp;&nbsp;&nbsp;&nbsp;<img align=center src="https://img.shields.io/badge/Assembly-purple"> <img align=center src="https://img.shields.io/badge/Forth-orange"> <img align=center src="https://img.shields.io/badge/_C_-green">&nbsp;&nbsp;[Blog post](https://joldosh.blogspot.com/2020/07/robot-game-65c02-c-assembly-and-forth.html)&nbsp;&nbsp;[On Hackaday](https://hackaday.com/2020/07/07/gaming-in-different-languages/)&nbsp;&nbsp;[Try it out](http://calc6502.com/RobotGame/summary.html)
+
+- [PIC32 Blinky Robot](https://github.com/JoeyShepard/pic32-blinky-robot)  
+&nbsp;&nbsp;&nbsp;&nbsp;Nested 6502 emulators running on PIC32 microcontroller  
+&nbsp;&nbsp;&nbsp;&nbsp;<img align=center src="https://img.shields.io/badge/Assembly-purple">&nbsp;&nbsp;[Blog post](https://joldosh.blogspot.com/2022/12/pic326502-blinky-robot.html)&nbsp;&nbsp;[On Hackaday](https://hackaday.com/2022/12/24/blinky-project-is-6502s-all-the-way-down/)
 
 - [6507 Programmable Calculator](https://github.com/JoeyShepard/calc6507)  
 &nbsp;&nbsp;&nbsp;&nbsp;Forth-programmable calculator emulated in browser  
@@ -55,12 +55,13 @@
 - [EEPROM Programmer](https://joldosh.blogspot.com/2015/02/eeprom-programmer.html)
 
 ## Contact me &nbsp;📬
-[<img align=center src="https://img.shields.io/badge/Email-red">](mailto:joey.m.shepard@gmail.com)&nbsp;&nbsp;
+[<img align=center src="https://img.shields.io/badge/Email-red?logo=Gmail&logoColor=white">](mailto:joey.m.shepard@gmail.com)&nbsp;&nbsp;
 [<img align=center src="https://img.shields.io/badge/LinkedIn-blue">](https://www.linkedin.com/in/joseph-shepard-362772186/)&nbsp;&nbsp;
-[<img align=center src="https://img.shields.io/badge/Stack_Overflow-orange">](https://stackoverflow.com/users/2609116/joey-shepard)&nbsp;&nbsp;
-[<img align=center src="https://img.shields.io/badge/GitHub-black">](https://github.com/JoeyShepard)&nbsp;&nbsp;
-[<img align=center src="https://img.shields.io/badge/Blog-green">](https://joldosh.blogspot.com/)&nbsp;&nbsp;
+[<img align=center src="https://img.shields.io/badge/Blog-green?logo=Blogger&logoColor=white">](https://joldosh.blogspot.com/)&nbsp;&nbsp;
+[<img align=center src="https://img.shields.io/badge/Stack_Overflow-orange?logo=Stack+Overflow&logoColor=white">](https://stackoverflow.com/users/2609116/joey-shepard)&nbsp;&nbsp;
+[<img align=center src="https://img.shields.io/badge/GitHub-black?logo=GitHub&logoColor=white">](https://github.com/JoeyShepard)&nbsp;&nbsp;
 
+<br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyShepard&layout=compact&langs_count=6" />
 </div>
