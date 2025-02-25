@@ -10,11 +10,6 @@
 - [prog-tools](https://github.com/JoeyShepard/prog-tools) - Programming tools that run on the Casio fx-CG50 graphing calculator
 
 ## Projects &nbsp;💻
-
-<!-- Language badges - didn't find clean ways to show them on project list 
-  <img align=center src="https://img.shields.io/badge/Python-blue"> 
--->
-
 - [Interactive 6502 Assembler](https://github.com/JoeyShepard/interactive-6502-assembler)  
 &nbsp;&nbsp;&nbsp;&nbsp;Assembles and emulates as you type for quick prototyping  
 &nbsp;&nbsp;&nbsp;&nbsp;<img align=center src="https://img.shields.io/badge/Python-blue">&nbsp;&nbsp;[Blog post](https://joldosh.blogspot.com/2022/07/6502-interactive-assembler.html)&nbsp;&nbsp;[Try it out](http://calc6502.com/ia6502/main.html)
@@ -46,15 +41,25 @@
 - [Tiny Calculator](https://github.com/JoeyShepard/tiny-calc)
 -->
 
-
 ## Public talks &nbsp;💬
 - [HP Handheld Conference 2023](https://www.youtube.com/watch?v=BYiYUGSROLs)
 - [HP Handheld Conference 2021](https://www.youtube.com/watch?v=fNx0s4iwssQ)
 - [HP Handheld Conference 2019](https://www.youtube.com/watch?v=dJoKl0LK5jM)
   
-## Top blog posts &nbsp;🗒️
+## [Blog](https://joldosh.blogspot.com/) posts &nbsp;🗒️
+- [MSP430 Development on Linux](https://joldosh.blogspot.com/2024/05/msp430-development-on-linux.html)
+- [Tali Forth 2 on Linux](https://joldosh.blogspot.com/2022/12/tali-forth-2-on-linux.html) 
+- [Linux for Embedded Development](https://joldosh.blogspot.com/2022/01/linux-for-embedded-development.html)
+- [Tiny Calculator: Sine, Cosine, and Tangent](https://joldosh.blogspot.com/2018/12/tiny-calculator-sine-cosine-and-tangent.html)
+- [6502 BCD Multiplication](https://joldosh.blogspot.com/2017/11/6502-bcd-multiplication.html)
+- [EEPROM Programmer](https://joldosh.blogspot.com/2015/02/eeprom-programmer.html)
+
 ## Contact me &nbsp;📬
-gmail, linkedin, stackoverflow, github
+[<img align=center src="https://img.shields.io/badge/Email-red">](mailto:joey.m.shepard@gmail.com)&nbsp;&nbsp;
+[<img align=center src="https://img.shields.io/badge/LinkedIn-blue">](https://www.linkedin.com/in/joseph-shepard-362772186/)&nbsp;&nbsp;
+[<img align=center src="https://img.shields.io/badge/Stack_Overflow-orange">](https://stackoverflow.com/users/2609116/joey-shepard)&nbsp;&nbsp;
+[<img align=center src="https://img.shields.io/badge/GitHub-black">](https://github.com/JoeyShepard)&nbsp;&nbsp;
+[<img align=center src="https://img.shields.io/badge/Blog-green">](https://joldosh.blogspot.com/)&nbsp;&nbsp;
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoeyShepard&layout=compact&langs_count=6" />
