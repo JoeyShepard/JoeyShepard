@@ -33,7 +33,7 @@
 
 - [Robot Game](https://github.com/JoeyShepard/robot-game)  
 &nbsp;&nbsp;&nbsp;&nbsp;Performance comparison between assembly, Forth, and C  
-&nbsp;&nbsp;&nbsp;&nbsp;<img align=center src="https://img.shields.io/badge/Assembly-purple"> <img align=center src="https://img.shields.io/badge/Forth-orange"> <img align=center src="https://img.shields.io/badge/_C_-green">[Blog post](https://joldosh.blogspot.com/2020/07/robot-game-65c02-c-assembly-and-forth.html)&nbsp;&nbsp;[On Hackaday](https://hackaday.com/2020/07/07/gaming-in-different-languages/)&nbsp;&nbsp;[Try it out](http://calc6502.com/RobotGame/summary.html)
+&nbsp;&nbsp;&nbsp;&nbsp;<img align=center src="https://img.shields.io/badge/Assembly-purple"> <img align=center src="https://img.shields.io/badge/Forth-orange"> <img align=center src="https://img.shields.io/badge/_C_-green">&nbsp;&nbsp;[Blog post](https://joldosh.blogspot.com/2020/07/robot-game-65c02-c-assembly-and-forth.html)&nbsp;&nbsp;[On Hackaday](https://hackaday.com/2020/07/07/gaming-in-different-languages/)&nbsp;&nbsp;[Try it out](http://calc6502.com/RobotGame/summary.html)
 
 - [6507 Programmable Calculator](https://github.com/JoeyShepard/calc6507)  
 &nbsp;&nbsp;&nbsp;&nbsp;Forth-programmable calculator emulated in browser  
